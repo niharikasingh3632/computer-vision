@@ -1,4 +1,4 @@
-#!/home/niharikas/Niharika_AI/akcv/computer-vision/cvenv/bin/python3
+#!/home/niharikas/Niharika_AI/akcv/computer-vision/cvenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
